@@ -2,4 +2,4 @@
 title: Projects Title
 ---
 
-#Course Project
+# Course Project
