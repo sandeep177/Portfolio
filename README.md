@@ -1,8 +1,8 @@
 ---
-title: Projects Title
+title: Data Science Projects
 ---
 
-# Course Project
+# Project Data
 
 ##Link
 .[Data Science Projects].(projects)
