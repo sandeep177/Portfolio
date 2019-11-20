@@ -5,5 +5,5 @@ title: Data Science Projects
 # Projects
 
 #### Link
-[Data Science Projects](projects.md)
+[Data Science Projects](Projects.md)
 
