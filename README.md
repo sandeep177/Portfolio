@@ -2,5 +2,5 @@
 title: Data Science Projects
 ---
 
-# Project Data
+# Projects
 
