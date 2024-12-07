@@ -1,5 +1,5 @@
 ---
-# 👩‍💻PORTFOLIO GUIDE
+# 👩‍💻Portfolio Guide
 
 Hi there! 🙋🏻‍♀️
 
@@ -7,7 +7,7 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/feed/) about my projects!
 
-# 📑TABLE OF CONTENTS
+# 📑Table of Contents
 
 #### Link
 [Data Science Projects](Projects.md)
